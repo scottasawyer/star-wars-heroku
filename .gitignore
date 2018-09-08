@@ -1,0 +1,4 @@
+# Vagrant VM Files
+.vagrant
+
+/node_modules/
